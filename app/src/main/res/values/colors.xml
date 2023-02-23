@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#001C32</color>
+    <color name="colorAccent">#567DF4</color>
+    <color name="colorSecondary">#ff9d76</color>
+
+    <color name="colorText">#27251D</color>
+    <color name="secondaryText">#454545</color>
+
+    <color name="mainBlue">#6979F8</color>
+    <color name="textGrey">#7C7676</color>
+    <color name="textBlue">#22215B</color>
+    <color name="keyboardbackground">#f2f6ff</color>
+    <color name="keyboardDivider">#586C9D</color>
+    <color name="keyboardtext">#586C9D</color>
+    <color name="newThemeColor">#586C9D</color>
+
+    <color name="vegGreen">#158467</color>
+    <color name="pinko">#FC1055</color>
+    <color name="blueo">#0084F4</color>
+    <color name="greeno">#00C48C</color>
+
+    <color name="nonveg">#800000</color>
+
+    <color name="darkNewThemeColor">#343D63</color>
+    <color name="textBrown">#C98643</color>
+
+    <color name="textred_color">#FF647C</color>
+
+</resources>
