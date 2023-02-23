@@ -26,8 +26,6 @@ To get started with the MusicWiki app, follow these steps:
 1.Clone the repository to your local machine.
 2.Open the project in Android Studio.
 3.Run the app on an Android emulator or a physical Android device.
-4.Contributing
-5.Contributions to the MusicWiki app are welcome. To contribute, follow these steps:
 ```
 ## Contributing
 Contributions to the MusicWiki app are welcome. To contribute, follow these steps:
